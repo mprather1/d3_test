@@ -1,0 +1,5 @@
+{
+	"undefined": "mongodb://localhost/d3_test",
+	"dev": "mongodb://localhost/d3_test",
+	"prod": "mongodb://localhost/d3_test"
+}

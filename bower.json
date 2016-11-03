@@ -1,0 +1,23 @@
+{
+  "name": "d3_test",
+  "description": "",
+  "main": "server.js",
+  "authors": [
+    "Michael Prather"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "underscore": "^1.8.3",
+    "backbone": "^1.3.3",
+    "backbone.marionette": "^3.1.0"
+  }
+}
